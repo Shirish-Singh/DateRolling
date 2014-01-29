@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Sep 04 10:34:23 CAT 2013
+maven-common-artifact-filters-1.4.jar>qualica=
+maven-common-artifact-filters-1.4.jar>central=
+maven-common-artifact-filters-1.4.pom>qualica=
+maven-common-artifact-filters-1.4.pom>central=

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.qualica</groupId>
+  <artifactId>flexifin-common-adapter</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131204123047</lastUpdated>
+  </versioning>
+</metadata>

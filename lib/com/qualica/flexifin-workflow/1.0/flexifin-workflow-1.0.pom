@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+    <groupId>com.qualica</groupId>
+    <artifactId>flexifin-workflow</artifactId>
+    <version>1.0</version>
+    <name>flexifin-workflow</name>
+
+
+    <parent>
+        <artifactId>flexifin</artifactId>
+        <groupId>com.qualica</groupId>
+        <relativePath>../pom.xml</relativePath><!-- this is the default anyway but seems to help the IDE -->
+        <version>1.0</version>
+    </parent>
+
+
+    <modules>
+        <module>workflow-shared</module>
+        <module>workflow-service</module>
+        <module>workflow-client</module>
+    </modules>
+
+</project>

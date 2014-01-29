@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 04 14:31:08 CAT 2013
+services-application-1.0.jar>=
+services-application-1.0.pom>=
+services-application-1.0-bin.zip>=

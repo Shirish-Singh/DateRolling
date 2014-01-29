@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Sep 02 14:04:13 CAT 2013
+liquibase-test-0.0.1-SNAPSHOT.jar>=
+liquibase-test-0.0.1-SNAPSHOT.pom>=
